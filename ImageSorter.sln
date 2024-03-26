@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSorter", "ImageSorter\ImageSorter.csproj", "{6169714B-0C84-4535-B92A-64A1A7E41312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6169714B-0C84-4535-B92A-64A1A7E41312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6169714B-0C84-4535-B92A-64A1A7E41312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6169714B-0C84-4535-B92A-64A1A7E41312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6169714B-0C84-4535-B92A-64A1A7E41312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxnUdmSAf8XtIOhAfCF7l/xtihKf3OZwrh8M/+BMzYQ1tmlh7BdO4ZpzcK1zicdIOoQmBSqPIiTjdy7K1zLWmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\ImageSorter\\ImageSorter\\ImageSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\sixlabors.fonts\\2.0.1\\sixlabors.fonts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sixlabors.imagesharp\\3.1.0\\sixlabors.imagesharp.3.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sixlabors.imagesharp.drawing\\2.1.0\\sixlabors.imagesharp.drawing.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

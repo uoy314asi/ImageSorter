@@ -1,0 +1,8 @@
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\ImageSorter.exe
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\ImageSorter.dll
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\ImageSorter.deps.json
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\ImageSorter.runtimeconfig.json
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\ImageSorter.pdb
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\SixLabors.Fonts.dll
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\SixLabors.ImageSharp.dll
+C:\Users\Administrator\RiderProjects\ImageSorter\ImageSorter\bin\Release\net8.0-windows\win-x64\publish\SixLabors.ImageSharp.Drawing.dll
